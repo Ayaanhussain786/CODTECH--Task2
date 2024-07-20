@@ -50,3 +50,6 @@ The objective of this program is to convert temperatures between Celsius, Fahren
    - Output:
      - 300K = 26.85°C
      - 300K = 80.33°F
+
+
+![image](https://github.com/user-attachments/assets/8699c96d-aceb-429f-b904-1f6cf0081ffd)
