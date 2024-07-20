@@ -1,3 +1,10 @@
+Name: AYAAN HUSSAIN
+Company: CODETECH IT SOLUTIONS
+ID: CT4CP3318
+Domain: C language
+Duration: June to July 2024
+Mentor: Neela Santhosh Kumar
+
 
 # Temperature Conversion Tool
 
